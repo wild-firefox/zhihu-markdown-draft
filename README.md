@@ -36,7 +36,7 @@ macOS/Linux: ~/.codex/skills/zhihu-markdown-draft
 
 保留 `SKILL.md`、`agents/`、`scripts/`、`references/` 和 `assets/` 的相对结构，然后重启 Codex 或开启新任务。
 
-如果目前只有本地开源副本，直接使用手动安装方式即可；上传 GitHub 后再把上面的示例地址换成实际仓库地址。
+开源仓库地址为 <https://github.com/wild-firefox/zhihu-markdown-draft>；也可以下载或克隆后按上述目录手动安装。
 
 ## 第一次使用与知乎登录
 

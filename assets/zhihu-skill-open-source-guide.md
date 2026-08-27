@@ -4,7 +4,7 @@
 
 为了解决这些重复问题，我整理了一个开源 Codex Skill：**Zhihu Markdown Draft**。它负责生成知乎导入版、检查兼容性、导入草稿并验证保存结果。默认只保存草稿，不会发布文章。
 
-开源副本的仓库名是 `zhihu-markdown-draft`。目前先整理为独立的本地开源目录；上传 GitHub 后，只需要在 README 和安装命令中换成实际仓库地址。
+开源仓库是 <https://github.com/wild-firefox/zhihu-markdown-draft>，仓库名为 `zhihu-markdown-draft`。
 
 ## 它能做什么
 
