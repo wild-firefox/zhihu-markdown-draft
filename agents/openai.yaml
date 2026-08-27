@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zhihu Markdown Draft"
+  short_description: "Prepare Markdown and local images for a Zhihu article draft"
+  default_prompt: "Use $zhihu-markdown-draft to prepare this Markdown and save it as a Zhihu article draft."
